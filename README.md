@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://imgur.com/gVgvT8o">
-</div>
+![](https://i.imgur.com/qKaf1oO.png)
 
 <h2>Oi! sou o Jairo</h2>
 
