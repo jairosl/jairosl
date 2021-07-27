@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/65239333?v=4">
+<img src="https://imgur.com/gVgvT8o">
 </div>
+
 <h2>Oi! sou o Jairo</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim: </h3>
