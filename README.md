@@ -17,12 +17,16 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Express](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
+  
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
+  ![React Navite](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJs](https://img.shields.io/badge/-nextjs-333333?style=flat&logo=next.js)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -34,11 +38,12 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![GitFlow](https://img.shields.io/badge/-GitFlow-333333?style=flat&logo=gitflow)
+  ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Isomnia](https://img.shields.io/badge/-Isomnia-333333?style=flat&logo=isomnia)
-
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
   
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
