@@ -1,5 +1,3 @@
-![](https://i.imgur.com/qKaf1oO.png)
-
 <h2>Oi! meu nome é Jairo</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim: </h3>
