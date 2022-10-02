@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Adoro programar e está por dentro das tecnologias mais relevantes
 - 🎓 &nbsp; Sou Graduando em Ciência da Computação pela UEPB
-- 💼 &nbsp; Sou desenvolvedor Backend e Frontend Júnior
+- 💼 &nbsp; Sou desenvolvedor Frontend
 - ✍️ &nbsp; Como hobby toco violão e jogo.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
