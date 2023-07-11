@@ -57,6 +57,6 @@
 <h3> 🤝🏻 &nbsp;Conecte-se comigo </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jairo-sl/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jairosl-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jairosl/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jairosl-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jairosoareslima@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jairosoareslima@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
